@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">trab3</string>
+    <string name="create_order">Create Order</string>
+
+    <string-array name="options">
+
+        <item>Cervejas</item>
+        <item>Destilados</item>
+        <item>Diversos</item>
+    </string-array>
+
+    <string name="hello_world_fragment">Hello World fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="creat_order">Create Order</string>
+    <string name="action_share">share</string>
+</resources>
